@@ -5,3 +5,4 @@ google-generativeai
 opencv-python
 python-dotenv
 numpy
+gradio-client

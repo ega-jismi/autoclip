@@ -1,5 +1,5 @@
 import cv2
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 import os
 import numpy as np  # Kita mengimpor numpy untuk keamanan data
 
